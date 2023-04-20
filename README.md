@@ -1,5 +1,8 @@
 # What's this
 Simple script to add new Windows Admin Center (WAC) client.
+# Prerequirements
+* Enabled working remote powershell
+* Domain admin permission
 # Install
 Just copy somewhere and set the variables inside the scripts:
 
